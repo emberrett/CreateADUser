@@ -20,3 +20,5 @@ After the variables are modified and the inputs are given, the script will:
 <br>-Enable the user account
 <br>-Set a password based on the secure string provided
 <br>-Add user to the specified groups in AD
+
+*Actual company name/domain replaced by Contoso, Microsoft's placeholder company.
